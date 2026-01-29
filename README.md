@@ -78,3 +78,4 @@ This project can be easily deployed to platforms like Netlify, Vercel, or GitHub
 
 This project is open-source and available under the MIT License.
 
+
