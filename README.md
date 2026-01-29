@@ -77,3 +77,4 @@ This project can be easily deployed to platforms like Netlify, Vercel, or GitHub
 ## License
 
 This project is open-source and available under the MIT License.
+
