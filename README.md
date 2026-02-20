@@ -9,7 +9,7 @@ This portfolio website is built with React and styled with Tailwind CSS to showc
 ## Features
 
 - **Responsive Design**: Works seamlessly across all device sizes
-- **Modern UI**: Clean and professional interface built with Tailwind CSS
+- **Modern UI**: Clean and professional interface built with Tailwind Css
 - **Interactive Elements**: Dynamic starfield background animation
 - **Project Showcase**: Dedicated section for highlighting key projects
 - **Skills Display**: Comprehensive overview of technical skills
@@ -77,6 +77,7 @@ This project can be easily deployed to platforms like Netlify, Vercel, or GitHub
 ## License
 
 This project is open-source and available under the MIT License.
+
 
 
 
