@@ -1,4 +1,4 @@
-# Portfolio-Suman
+# Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Computer Science Engineering student.
 
@@ -77,6 +77,7 @@ This project can be easily deployed to platforms like Netlify, Vercel, or GitHub
 ## License
 
 This project is open-source and available under the MIT License.
+
 
 
 
