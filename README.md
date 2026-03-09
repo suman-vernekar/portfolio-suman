@@ -6,8 +6,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 This portfolio website is built with React and styled with Tailwind CSS to showcase my work and experience. It features a modern, responsive design with interactive elements including a cosmic starfield background animation.
 
-## Features
-
+## Feature
 - **Responsive Design**: Works seamlessly across all device sizes
 - **Modern UI**: Clean and professional interface built with Tailwind CSS
 - **Interactive Elements**: Dynamic starfield background animation
@@ -77,6 +76,7 @@ This project can be easily deployed to platforms like Netlify, Vercel, or GitHub
 ## License
 
 This project is open-source and available under the MIT License.
+
 
 
 
