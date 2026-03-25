@@ -13,7 +13,7 @@ This portfolio website is built with React and styled with Tailwind CSS to showc
 - **Interactive Elements**: Dynamic starfield background animation
 - **Project Showcase**: Dedicated section for highlighting key projects
 - **Skills Display**: Comprehensive overview of technical skills
-- **Experience Timeline**: Professional experience history
+- **Experience Timeline**: Professional experience history.
 - **Education Section**: Academic background information
 - **Contact Information**: Easy way to get in touch
 
