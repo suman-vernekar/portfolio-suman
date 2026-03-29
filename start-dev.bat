@@ -9,7 +9,7 @@ REM Wait a moment for backend to start
 timeout /t 3 /nobreak >nul
 
 REM Start frontend server
-cd clients
+cd client
 start "Frontend Server" cmd /k "npm start"
 
 echo.
