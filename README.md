@@ -17,7 +17,7 @@ This portfolio website is built with React and styled with Tailwind CSS to showc
 - **Education Section**: Academic background information
 - **Contact Information**: Easy way to get in touch
 
-## Technologies Used
+## Technologies Use
 
 - React.js
 - Tailwind CSS
